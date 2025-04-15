@@ -39,4 +39,9 @@ By analyzing this processed information, the National Capital Commission (NCC) c
   "timestamp": "2024-11-23T12:00:00Z" 
   } 
   ```
+  <img width="1800" alt="Screenshot 2025-04-13 at 8 33 49 PM" src="https://github.com/user-attachments/assets/5e407250-abbd-4101-868b-db63d84bb958" />
+  <img width="1800" alt="Screenshot 2025-04-13 at 8 33 55 PM" src="https://github.com/user-attachments/assets/dc580d4c-fda6-4ce8-aedd-585f2bdbdeac" />
+
   
+
+

@@ -44,7 +44,8 @@ By analyzing this processed information, the National Capital Commission (NCC) c
   
 ### Creating Azure IOT HUB:
   <img width="1800" alt="Screenshot 2025-04-13 at 4 49 35 PM" src="https://github.com/user-attachments/assets/ef25e420-b847-4f0a-b4b6-37630efcc7a9" />
-### Creating System Analysis
+  
+### Creating System Analysis:
 
   <img width="1800" alt="Screenshot 2025-04-13 at 5 02 32 PM" src="https://github.com/user-attachments/assets/ba3adaf7-3ffe-489c-a5e1-6a4b1d274415" />
 
